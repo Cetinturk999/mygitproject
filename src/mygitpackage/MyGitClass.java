@@ -15,6 +15,8 @@ public class MyGitClass {
         System.out.println("java guzeldir");
 		System.out.println("11.satÄ±r uzak sunucu");
 
+		
+		System.out.println("19. satır bilgisayarım java harikadır");
 	}
 
 }
