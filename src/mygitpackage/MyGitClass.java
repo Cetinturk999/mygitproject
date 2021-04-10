@@ -9,11 +9,13 @@ public class MyGitClass {
 
         System.out.println("deneme");
         System.out.println("java guzeldir");
-        System.out.println("11. satır git kodum");
+        System.out.println("11. satÃ½r git kodum");
         
         System.out.println("deneme");
         System.out.println("java guzeldir");
-		System.out.println("11.satÄ±r uzak sunucu");
+        System.out.println("11.satÃ„Â±r uzak sunucu");
+		
+	 System.out.println("18. satÄ±r java harikadÄ±r");	
 
 		
 		System.out.println("19. satır bilgisayarım java harikadır");
