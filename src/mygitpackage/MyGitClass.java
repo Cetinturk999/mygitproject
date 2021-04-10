@@ -8,6 +8,7 @@ public class MyGitClass {
 		System.out.println("uzak sunucuda ki kodum1111111");
                 System.out.println("deneme");
                 System.out.println("java guzeldir");
+		System.out.println("11.satır uzak sunucu");
 	}
 
 }
