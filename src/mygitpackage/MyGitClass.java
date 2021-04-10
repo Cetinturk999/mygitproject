@@ -15,8 +15,13 @@ public class MyGitClass {
         System.out.println("java guzeldir");
         System.out.println("11.satÄ±r uzak sunucu");
 		
-	 System.out.println("18. satır java harikadır");	
+	    System.out.println("18. satır java harikadır");	
 
+		
+		System.out.println("19. sat�r bilgisayar�m java harikad�r");
+	    System.out.println("rumeysa branch inde yazd�g�m kodlar");
+	
+	
 	}
 
 }
